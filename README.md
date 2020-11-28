@@ -1,4 +1,4 @@
-# Driessamyn Homewbrew-repo
+# My Homewbrew-repo
 
 ## How do I install these formulae?
 `brew install driessamyn/homewbrew-repo/<formula>`
